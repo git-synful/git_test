@@ -1,0 +1,1 @@
+This is Hiakato's first git project!
